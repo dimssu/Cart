@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "product_id": "p001",
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "Powerful laptop for work and entertainment",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "product_id": "p002",
+      "name": "Smartphone",
+      "price": 799.99,
+      "description": "Latest smartphone with advanced features",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "product_id": "p003",
+      "name": "Headphones",
+      "price": 199.99,
+      "description": "Wireless headphones with great sound quality",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "product_id": "p004",
+      "name": "Smartwatch",
+      "price": 299.99,
+      "description": "Fitness tracker and smart notifications",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "product_id": "p005",
+      "name": "Digital Camera",
+      "price": 499.99,
+      "description": "High-resolution camera for capturing memories",
+      "image_url": "https://picsum.photos/200"
+    }
+  ]
+}
